@@ -1,0 +1,17 @@
+{
+    "name": "andrei/tests-php",
+    "authors": [
+        {
+            "name": "andrei.lapihin",
+            "email": "lapihin.andrei@yandex.ru"
+        }
+    ],
+    "require": {
+        "webmozart/assert": "^1.11"
+    },
+    "autoload": {
+        "files":[
+            "src/StringUtils.php"
+        ]
+    }
+}
